@@ -37,6 +37,7 @@ help: # if not specified, use default (whatever that might be)
 ```
 
 ## Minimal File
+
 ```yml
 name: My Plugin
 version: 4.2.0
