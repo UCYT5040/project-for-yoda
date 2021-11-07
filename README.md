@@ -38,6 +38,8 @@ help: # if not specified, use default (whatever that might be)
 
 ## Minimal File
 
+A minimal file with optional stuff removed.
+
 ```yml
 name: My Plugin
 version: 4.2.0
