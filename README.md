@@ -34,6 +34,7 @@ help: # if not specified, use default (whatever that might be)
     command: command_function_name # (ctx is provided)
     # For classes:
     # command: ClassName.command_function_name
+    # Help command should return an embed, so it can be shown on the dashboard.
 ```
 
 ## Minimal File
