@@ -17,7 +17,7 @@ maintainers:
       # websites:
       # - https://github.com/UCYT5040
       # - https://google.com/search?q=UCYT5040
-    - name: Yoda # Maintainers don't need a website, so in this example Yoda does not have one.
+    - name: Yoda # Maintainers are not required to have a website, so in this example Yoda does not have one.
 permissions: # optional if only default perms are needed
     - read # read a file
     - write # write to a file
